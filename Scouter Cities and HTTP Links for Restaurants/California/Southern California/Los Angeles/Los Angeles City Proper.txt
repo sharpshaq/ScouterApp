@@ -1,0 +1,91 @@
+Los Angeles City Proper
+
+Adams Normandie, Alhambra, Arleta, Arlington Heights, Arts District, Athens, Atwater Village, Baldwin Hills/Crenshaw, Bel Air, Beverly Crest, Beverly Grove, Beverly Hills, Beverlywood
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Adams_Normandie,Alhambra,Arleta,Arlington_Heights,Arts_District,Athens,Atwater_Village,Baldwin_Hills/Crenshaw,Bel_Air,Beverly_Crest,Beverly_Grove,Beverly_Hills,Beverlywood]
+
+Boyle Heights, Brentwood, Broadway-Manchester, Burbank
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Boyle_Heights,Brentwood,Broadway-Manchester,Burbank]
+
+Canoga Park, Carthay, Central Alameda, Century City, Chatsworth, Chesterfield Square, Cheviot Hills, Chinatown, Culver City, Cypress Park, Del Ray
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Canoga_Park,Carthay,Central_Alameda,Century_City,Chatsworth,Chesterfield_Square,Cheviot_Hills,Chinatown,Culver_City,Cypress_Park,Del_Rey]
+
+Downtown (More than 1000 : 1267)
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::Downtown
+
+Eagle Rock, East Hollywood, East Los Angeles, Echo Park, El Segundo, El Sereno
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Eagle_Rock,East_Hollywood,East_Los_Angeles,Echo_Park,El_Segundo,El_Sereno]
+
+Elysian Park, Encino, Exposition Park, Fairfax, Florence, Florence-Firestone, Glassell Park, 
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Elysian_Park,Encino,Exposition_Park,Fairfax,Florence,Florence-Firestone,Glassell_Park]
+
+Glendale, Gramercy Park, Granada Hills, Green Meadows
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Glendale,Gramercy_Park,Granada_Hills,Green_Meadows]
+
+Griffith Park, Hancock Park, Harbor City, Harbor Gateway, Harvard Heights, Harvard Park, Hermosa Beach, Highland Park, Historic South Central
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Griffith_Park,Hancock_Park,Harbor_City,Harbor_Gateway,Harvard_Heights,Harvard_Park,Hermosa_Beach,Highland_Park,Historic_South_Central]
+
+Hollywood Hills, Hollywood Hills West, Huntington Park, Hyde Park, Jefferson Park
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Hollywood,Hollywood_Hills,Hollywood_Hills_West,Huntington_Park,Hyde_Park,Jefferson_Park]
+
+Korea Town, Ladera Heights
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Koreatown,Ladera_Heights]
+
+Ladera Heights, Lake Balboa, Lake View Terrace, Larchmont, Leimert Park
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Ladera_Heights,Lake_Balboa,Lake_View_Terrace,Larchmont,Leimert_Park]
+
+Lincoln Heights, Little Tokyo, Los Feliz, Manchester Square, Manhattan Beach, Mar Vista, Marina Del Rey, Mid-City, Mid-Wilshire, Mission Hills, Montecito Heights, Mount Washington, North Hills, 
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Lincoln_Heights,Little_Tokyo,Los_Feliz,Manchester_Square,Manhattan_Beach,Mar_Vista,Marina_del_Rey,Mid-City,Mid-Wilshire,Mission_Hills,Montecito_Heights,Mount_Washington,North_Hills]
+
+North Hollywood, Northridge, Pacific Palisades, Pacoima, Palms, Panorama City
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[North_Hollywood,Northridge,Pacific_Palisades,Pacoima,Palms,Panorama_City]
+
+Pasadena, Pico-Robertson, Pico-Union, Playa Vista, Playa Del Rey, Porter Ranch
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Pasadena,Pico-Robertson,Pico-Union,Playa_Vista,Playa_del_Rey,Porter_Ranch]
+
+Rancho Park, Redondo Beach, Reseda, San Fernando, San Pedro
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Rancho_Park,Redondo_Beach,Reseda,San_Fernando,San_Pedro]
+
+Santa Monica, Sawtelle, Sepulveda Basin, Shadow Hills
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Santa_Monica,Sawtelle,Sepulveda_Basin,Shadow_Hills]
+
+Sherman Oaks, Silver Lake, South Park, South Pasadena, Studio City, Sun Valley, Sunland, Slymar
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Sherman_Oaks,Silver_Lake,South_Park,South_Pasadena,Studio_City,Sun_Valley,Sunland,Sylmar]
+
+Tarzana, Terminal Island, Toluca Lake, Torrance, Tujunga, UCLA, Universal City, University Park
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Tarzana,Terminal_Island,Toluca_Lake,Torrance,Tujunga,UCLA,Universal_City,University_Park]
+
+Valley Glen, Valley Village, Van Nuys, Venice, Vermont-Slauson, Vermont Knolls, Vermont Square, Vermont Vista, Vernon, View Park/Windsor Hills, Walnut Park
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Valley_Glen,Valley_Village,Van_Nuys,Venice,Vermont-Slauson,Vermont_Knolls,Vermont_Square,Vermont_Vista,Vernon,View_Park/Windsor_Hills,Walnut_Park]
+
+Watts, West Adams, West Hills, West Hollywood, West Los Angeles, Westchester, Westlake
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Watts,West_Adams,West_Hills,West_Hollywood,West_Los_Angeles,Westchester,Westlake]
+
+Westmont, Westwood, Wilmington, Wilshire Center
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Westmont,Westwood,Wilmington,Wilshire_Center]
+
+Windsor Square, Winnetka, Woodland Hills
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Windsor_Square,Winnetka,Woodland_Hills]
+
+Los Angeles City Proper HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Adams_Normandie,Alhambra,Arleta,Arlington_Heights,Arts_District,Athens,Atwater_Village,Baldwin_Hills/Crenshaw,Bel_Air,Beverly_Crest,Beverly_Grove,Beverly_Hills,Beverlywood]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Boyle_Heights,Brentwood,Broadway-Manchester,Burbank]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Canoga_Park,Carthay,Central_Alameda,Century_City,Chatsworth,Chesterfield_Square,Cheviot_Hills,Chinatown,Culver_City,Cypress_Park,Del_Rey]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::Downtown
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Eagle_Rock,East_Hollywood,East_Los_Angeles,Echo_Park,El_Segundo,El_Sereno]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Elysian_Park,Encino,Exposition_Park,Fairfax,Florence,Florence-Firestone,Glassell_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Glendale,Gramercy_Park,Granada_Hills,Green_Meadows]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Griffith_Park,Hancock_Park,Harbor_City,Harbor_Gateway,Harvard_Heights,Harvard_Park,Hermosa_Beach,Highland_Park,Historic_South_Central]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Hollywood,Hollywood_Hills,Hollywood_Hills_West,Huntington_Park,Hyde_Park,Jefferson_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Koreatown,Ladera_Heights]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Ladera_Heights,Lake_Balboa,Lake_View_Terrace,Larchmont,Leimert_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Lincoln_Heights,Little_Tokyo,Los_Feliz,Manchester_Square,Manhattan_Beach,Mar_Vista,Marina_del_Rey,Mid-City,Mid-Wilshire,Mission_Hills,Montecito_Heights,Mount_Washington,North_Hills]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[North_Hollywood,Northridge,Pacific_Palisades,Pacoima,Palms,Panorama_City]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Pasadena,Pico-Robertson,Pico-Union,Playa_Vista,Playa_del_Rey,Porter_Ranch]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Rancho_Park,Redondo_Beach,Reseda,San_Fernando,San_Pedro]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Santa_Monica,Sawtelle,Sepulveda_Basin,Shadow_Hills]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Sherman_Oaks,Silver_Lake,South_Park,South_Pasadena,Studio_City,Sun_Valley,Sunland,Sylmar]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Tarzana,Terminal_Island,Toluca_Lake,Torrance,Tujunga,UCLA,Universal_City,University_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Valley_Glen,Valley_Village,Van_Nuys,Venice,Vermont-Slauson,Vermont_Knolls,Vermont_Square,Vermont_Vista,Vernon,View_Park/Windsor_Hills,Walnut_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Watts,West_Adams,West_Hills,West_Hollywood,West_Los_Angeles,Westchester,Westlake]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Westmont,Westwood,Wilmington,Wilshire_Center]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Los_Angeles::[Windsor_Square,Winnetka,Woodland_Hills]

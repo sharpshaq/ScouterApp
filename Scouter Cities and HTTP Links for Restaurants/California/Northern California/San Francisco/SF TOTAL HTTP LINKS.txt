@@ -1,0 +1,22 @@
+San Francisco HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Francisco::[Alamo_Square,Anza_Vista,Ashbury_Heights,Balboa_Terrace,Bayview-Hunters_Point,Bernal_Heights,Castro,Chinatown,Civic_Center,Cole_Valley,Corona_Heights,Crocker-Amazon,Diamond_Heights,Dogpatch,Duboce_Triangle,Embarcadero,Excelsior,Fillmore]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Francisco::[Financial_District,Fisherman%27s_Wharf,Forest_Hill,Glen_Park,Hayes_Valley,Ingleside,Ingleside_Heights,Ingleside_Terraces]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Francisco::[Inner_Richmond,Inner_Sunset,Japantown,Lakeshore,Lakeside,Laurel_Heights,Lower_Haight,Lower_Nob_Hill,Lower_Pacific_Heights,Marina/Cow_Hollow,Merced_Heights,Merced_Manor,Miraloma_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.3&l=p:CA:San_Francisco::[Mission_Bay,Mission_Terrace,Monterey_Heights,Mount_Davidson_Manor]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.3&l=p:CA:San_Francisco::[NoPa,Nob_Hill,Noe_Valley,North_Beach/Telegraph_Hill,Oceanview,Outer_Mission,Outer_Richmond]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.2&l=p:CA:San_Francisco::[Outer_Sunset,Pacific_Heights,Parkmerced,Parkside,Portola,Presidio,Presidio_Heights,Russian_Hill]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.2&l=p:CA:San_Francisco::[Sea_Cliff,Sherwood_Forest,SoMa,South_Beach,St_Francis_Wood,Stonestown,Sunnyside]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.2&l=p:CA:San_Francisco::[Tenderloin,The_Haight,Twin_Peaks,Union_Square,Visitacion_Valley,West_Portal,Western_Addition,Westwood_Highlands,Westwood_Park]
+
+Berkeley HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Berkeley::[Berkeley_Hills,Claremont,Downtown_Berkeley,East_Solano_Ave,Elmwood,Fourth_Street,Gourmet_Ghetto,North_Berkeley,South_Berkeley,Telegraph_Ave,UC_Area,West_Berkeley]
+
+Oakland HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Oakland::[Dimond_District,Downtown_Oakland,East_Oakland,Fruitvale,Glenview,Grand_Lake,Jack_London_Square,Lake_Merritt,Lakeshore,Laurel_District,Lower_Hills,Montclair_Village]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Oakland::[Piedmont,Piedmont_Ave,Rockridge,Temescal,Uptown,West_Oakland]
+
+SF Metro HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Alameda::,Albany::,Belvedere_Tiburon::,Brisbane::,Colma::,Corte_Madera::,Daly_City::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[El_Cerrito::,Emeryville::,Kensington::,Mill_Valley::,Millbrae::,Pacifica::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Point_Richmond::,Richmond::,San_Bruno::,Sausalito::,South_San_Francisco::,Tiburon::,Woodside::]
+

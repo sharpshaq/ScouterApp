@@ -1,0 +1,20 @@
+Sacramento Metro
+
+Antelope, Auburn, Carmichael, Citrus Heights, Clarksburg, Davis, Dixon, El Dorado Hills
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Antelope::,Auburn::,Carmichael::,Citrus_Heights::,Clarksburg::,Davis::,Dixon::,El_Dorado_Hills::]
+
+Elk Grove, Elverta, Fair Oaks, Folsom, Galt, Gold River, Granite Bay, Lincoln, Loomis, Newcastle
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Elk_Grove::,Elverta::,Fair_Oaks::,Folsom::,Galt::,Gold_River::,Granite_Bay::,Lincoln::,Loomis::,Newcastle::]
+
+North Highlands, Orangevale, Rancho Murieta, Rio Linda, Rocklin, Roseville
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[North_Highlands::,Orangevale::,Penryn::,Rancho_Cordova::,Rancho_Murieta::,Rio_Linda::,Rocklin::,Roseville::]
+
+Sloughhouse, W Sacramento, Walnut Grove, West Sacramento, Woodland
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sloughhouse::,W_Sacramento::,Walnut_Grove::,West_Sacramento::,Woodland::]
+
+
+Sacramento Metro HTTP LINKS
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Antelope::,Auburn::,Carmichael::,Citrus_Heights::,Clarksburg::,Davis::,Dixon::,El_Dorado_Hills::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Elk_Grove::,Elverta::,Fair_Oaks::,Folsom::,Galt::,Gold_River::,Granite_Bay::,Lincoln::,Loomis::,Newcastle::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[North_Highlands::,Orangevale::,Penryn::,Rancho_Cordova::,Rancho_Murieta::,Rio_Linda::,Rocklin::,Roseville::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sloughhouse::,W_Sacramento::,Walnut_Grove::,West_Sacramento::,Woodland::]

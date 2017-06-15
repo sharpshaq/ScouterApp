@@ -1,0 +1,17 @@
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&l=p:DC:Washington::[Adams_Morgan,American_University_Park,Anacostia,Barney_Circle,Barry_Farm,Bloomingdale,Brentwood,Brightwood,Brookland,Burleith,Capitol_Hill,Carver/Langston,Chevy_Chase,Chinatown,Cleveland_Park,Columbia_Heights,Crestwood,Deanwood,Dupont_Circle,Eckington,Edgewood]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&l=p:DC:Washington::[Federal_Triangle,Foggy_Bottom,Fort_Totten,Foxhall,Friendship_Heights,Gateway,Georgetown,Glover_Park,H_Street_Corridor/Atlas_District/Near_Northeast,Hillcrest,Ivy_City,Kalorama,Kingman_Park,Langdon_Park,Le_Droit_Park,Lincoln_Park,Logan_Circle,Michigan_Park,Mount_Pleasant,Mount_Vernon_Square,Navy_Yard,NoMa,Palisades,Park_View,Penn_Quarter]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&l=p:DC:Washington::[Petworth,Pleasant_Plains,Queens_Chapel,Shaw,Shepherd_Park,Southeast,Spring_Valley,Takoma,Tenleytown,Trinidad,U_Street_Corridor,Van_Ness/Forest_Hills,Wesley_Heights,West_End,Woodley_Park]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&cflt=food&l=p:DC:[Washington::,Washington_DC::]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&cflt=sandwiches,newamerican,tradamerican&l=p:DC:[Washington::,Washington_DC::]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&cflt=pizza,hotdogs,breakfast_brunch&l=p:DC:[Washington::,Washington_DC::]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&cflt=delis,coffee,foodtrucks,chinese,mexican&l=p:DC:[Washington::,Washington_DC::]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&cflt=italian,burgers,cafes,seafood,salad&l=p:DC:[Washington::,Washington_DC::]
+
+https://www.yelp.com/search?find_desc=Restaurants+%26+Food&start=0&cflt=mediterranean,lounges,cocktailbars,latin,vegetarian,indpak,asianfusion,sushi,japanese,thai,french,steak&l=p:DC:[Washington::,Washington_DC::]

@@ -1,0 +1,15 @@
+San Jose HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[Almaden_Valley,Alum_Rock/East_Foothills,Berryessa,Blossom_Valley,Buena_Vista,Burbank,Cambrian_Park,Downtown]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[East_San_Jose,Evergreen,Fairgrounds,North_San_Jose]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[North_Valley,Rose_Garden,Santa_Teresa,Seven_Trees,West_San_Jose,Willow_Glen]
+
+San Jose Metro HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Alviso::,Aptos::,Belmont::,Ben_Lomond::,Boulder_Creek::,Campbell::,Cupertino::,Davenport::,East_Palo_Alto::,Felton::,Foster_City::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Fremont::,Gilroy::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:%5BHayward::,Livermore::,Los_Altos::%5D
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Los_Gatos::,Menlo_Park::,Milpitas::,Moffett_Field::,Morgan_Hill::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Mountain_View::,Newark::,Palo_Alto::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Pleasanton::,Portola_Valley::,Redwood_City::,Redwood_Shores::,San_Carlos::,San_Martin::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[San_Mateo::,Santa_Clara::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Santa_Cruz::,Saratoga::,Scotts_Valley::,Soquel::,Stanford::,Sunnyvale::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sunol::,Union_City::,Woodside::]

@@ -1,0 +1,18 @@
+San Jose City Proper
+
+Almaden Valley to Downtown
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[Almaden_Valley,Alum_Rock/East_Foothills,Berryessa,Blossom_Valley,Buena_Vista,Burbank,Cambrian_Park,Downtown]
+
+East San Jose to North San Jose
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[East_San_Jose,Evergreen,Fairgrounds,North_San_Jose]
+
+North Valley to Willow Glen
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[North_Valley,Rose_Garden,Santa_Teresa,Seven_Trees,West_San_Jose,Willow_Glen]
+
+
+San Jose HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[Almaden_Valley,Alum_Rock/East_Foothills,Berryessa,Blossom_Valley,Buena_Vista,Burbank,Cambrian_Park,Downtown]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[East_San_Jose,Evergreen,Fairgrounds,North_San_Jose]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[North_Valley,Rose_Garden,Santa_Teresa,Seven_Trees,West_San_Jose,Willow_Glen]
+
+

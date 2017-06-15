@@ -1,0 +1,12 @@
+Sacramento City Proper
+
+Arden-Arcade, Curtis Park, Del Paso Heights, Downtown, East Sacramento, Hollywood Park, Land Park, Meadowview, Midtown
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Arden-Arcade,Curtis_Park,Del_Paso_Heights,Downtown,East_Sacramento,Hollywood_Park,Land_Park,Meadowview,Midtown]
+
+Natomas, Oak Park, Old Sacramento, River Park, Sacramento State, South Land Park, Tahoe Park, South/Tallac Village, The Pocket-Greenhaven
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Natomas,Oak_Park,Old_Sacramento,River_Park,Sacramento_State,South_Land_Park,Tahoe_Park,Tahoe_Park_South/Tallac_Village,The_Pocket-Greenhaven]
+
+
+Sacramento City HTTP LINKS
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Arden-Arcade,Curtis_Park,Del_Paso_Heights,Downtown,East_Sacramento,Hollywood_Park,Land_Park,Meadowview,Midtown]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Natomas,Oak_Park,Old_Sacramento,River_Park,Sacramento_State,South_Land_Park,Tahoe_Park,Tahoe_Park_South/Tallac_Village,The_Pocket-Greenhaven]

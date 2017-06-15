@@ -1,0 +1,5 @@
+San Diego Metro Cities
+
+Bonita, Cardiff, Cardiff by the Sea, Jamul, Leucadia, Midway District, Ramona, Rancho Santa Fe, San Marcos, Solana Beach
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Bonita::,Cardiff::,Cardiff-by-the-Sea::,Cardiff_By_The_Sea::,Cardiff_By_the_Sea::,Cardiff_by_the_Sea::,Jamul::,Leucadia::,Midway_District::,Ramona::,Rancho_Santa_Fe::,San_Marcos::,Solana_Beach::]
+

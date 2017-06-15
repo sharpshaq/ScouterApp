@@ -1,0 +1,88 @@
+
+Los Angeles Metro
+
+Altadena
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Altadena::
+
+Anaheim (1003 items)
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Anaheim::
+
+Arcadia, Artesia, Azusa, Baldwin Park, Bell, Bell Gardens
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Arcadia::,Artesia::,Azusa::,Baldwin_Park::,Bell::,Bell_Gardens::]
+
+Bellflower, Brea, Buena Park, Calabasas,Carson
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Bellflower::,Brea::,Buena_Park::,Calabasas::,Carson::]
+
+Cerritos, City Industry, City of Industry, Commerce, Compton, Covina, Cudahy, Cypress 
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Cerritos::,City_Industry::,City_Of_Industry::,City_of_Industry::,Commerce::,Compton::,Covina::,Cudahy::,Cypress::]
+
+Downey, Duerte, East Compton, El Monte, Florence-Graham, Fountain Valley
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Downey::,Duarte::,East_Compton::,El_Monte::,Florence-Graham::,Fountain_Valley::]
+
+Fullerton, Garden Grove
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Fullerton::,Garden_Grove::]
+
+Gardena, Hacienda Heights, Hawaiian Gardens, Hawthorne
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Gardena::,Hacienda_Heights::,Hawaiian_Gardens::,Hawthorne::]
+
+Huntington, Industry, Inglewood
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Huntington_Beach::,Industry::,Inglewood::]
+
+Irvine, Irwindale, La Canada, La Canada Flintridge, La Crescenta, La Crescenta-Montrose
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Irvine::,Irwindale::,La_Canada::,La_Canada_Flintridge::,La_Crescenta::,La_Crescenta-Montrose::]
+
+La Habra, La Mirada, La Palma, La Puente, Lakewood, Lawndale, Lennox, Lomita
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[La_Habra::,La_Mirada::,La_Palma::,La_Puente::,Lakewood::,Lawndale::,Lennox::,Lomita::]
+
+Long Beach (1260 Results)
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Long_Beach::
+
+Los Alamitos, Lynwood, Malibu, Marina Del Rey, Maywood, Midway City, Monrovia, Montebello, Monterey Park
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Los_Alamitos::,Lynwood::,Malibu::,Marina_Del_Rey::,Maywood::,Midway_City::,Monrovia::,Montebello::,Monterey_Park::]
+
+Montrose, N. Hollywood, Newhall, Norwalk, Orange, Palos Verdes Estates, Paramount
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Montrose::,N_Hollywood::,Newhall::,Norwalk::,Orange::,Palos_Verdes_Estates::,Paramount::]
+
+Pico Rivera, Playa Del Rey, Rancho Dominguez, Rancho Palos Verdes
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Pico_Rivera::,Playa_Del_Rey::,Rancho_Dominguez::,Rancho_Palos_Verdes::]
+
+Riverside, Rolling Hills Estate, Rolling Hills Estates
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Riverside::,Rolling_Hills_Estate::,Rolling_Hills_Estates::]
+
+Rosemead, Rowland Heights, San Fernando Valley, San Gabriel, San Marino
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Rosemead::,Rowland_Heights::,San_Fernando_Valley::,San_Gabriel::,San_Marino::]
+
+Santa Ana
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Santa_Ana::
+
+Santa Clarita, Santa Fe Springs, Seal Beach, Sierra Madre, Signal Hill, Simi Valley, South El Monte, South Gate
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Santa_Clarita::,Santa_Fe_Springs::,Seal_Beach::,Sierra_Madre::,Signal_Hill::,Simi_Valley::,South_El_Monte::,South_Gate::]
+
+Stanton, Stevenson Ranch, Sunset Beach, Temple City, Topanga, Valencia, W Hollywood, West Covina
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Stanton::,Stevenson_Ranch::,Sunset_Beach::,Temple_City::,Topanga::,Valencia::,W_Hollywood::,West_Covina::]
+
+Westminster, Whittier, Woodland Hills, Yorba Linda
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Westminster::,Whittier::,Woodland_Hls::,Yorba_Linda::]
+
+Los Angeles Metro HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Altadena::
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Anaheim::
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Arcadia::,Artesia::,Azusa::,Baldwin_Park::,Bell::,Bell_Gardens::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Bellflower::,Brea::,Buena_Park::,Calabasas::,Carson::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Cerritos::,City_Industry::,City_Of_Industry::,City_of_Industry::,Commerce::,Compton::,Covina::,Cudahy::,Cypress::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Downey::,Duarte::,East_Compton::,El_Monte::,Florence-Graham::,Fountain_Valley::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Fullerton::,Garden_Grove::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Gardena::,Hacienda_Heights::,Hawaiian_Gardens::,Hawthorne::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Huntington_Beach::,Industry::,Inglewood::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Irvine::,Irwindale::,La_Canada::,La_Canada_Flintridge::,La_Crescenta::,La_Crescenta-Montrose::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[La_Habra::,La_Mirada::,La_Palma::,La_Puente::,Lakewood::,Lawndale::,Lennox::,Lomita::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Long_Beach::
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Los_Alamitos::,Lynwood::,Malibu::,Marina_Del_Rey::,Maywood::,Midway_City::,Monrovia::,Montebello::,Monterey_Park::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Montrose::,N_Hollywood::,Newhall::,Norwalk::,Orange::,Palos_Verdes_Estates::,Paramount::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Pico_Rivera::,Playa_Del_Rey::,Rancho_Dominguez::,Rancho_Palos_Verdes::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Riverside::,Rolling_Hills_Estate::,Rolling_Hills_Estates::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Rosemead::,Rowland_Heights::,San_Fernando_Valley::,San_Gabriel::,San_Marino::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Santa_Ana::
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Santa_Clarita::,Santa_Fe_Springs::,Seal_Beach::,Sierra_Madre::,Signal_Hill::,Simi_Valley::,South_El_Monte::,South_Gate::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Stanton::,Stevenson_Ranch::,Sunset_Beach::,Temple_City::,Topanga::,Valencia::,W_Hollywood::,West_Covina::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Westminster::,Whittier::,Woodland_Hls::,Yorba_Linda::]

@@ -1,0 +1,70 @@
+San Francisco HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Francisco::[Alamo_Square,Anza_Vista,Ashbury_Heights,Balboa_Terrace,Bayview-Hunters_Point,Bernal_Heights,Castro,Chinatown,Civic_Center,Cole_Valley,Corona_Heights,Crocker-Amazon,Diamond_Heights,Dogpatch,Duboce_Triangle,Embarcadero,Excelsior,Fillmore]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Francisco::[Financial_District,Fisherman%27s_Wharf,Forest_Hill,Glen_Park,Hayes_Valley,Ingleside,Ingleside_Heights,Ingleside_Terraces]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Francisco::[Inner_Richmond,Inner_Sunset,Japantown,Lakeshore,Lakeside,Laurel_Heights,Lower_Haight,Lower_Nob_Hill,Lower_Pacific_Heights,Marina/Cow_Hollow,Merced_Heights,Merced_Manor,Miraloma_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.3&l=p:CA:San_Francisco::[Mission_Bay,Mission_Terrace,Monterey_Heights,Mount_Davidson_Manor]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.3&l=p:CA:San_Francisco::[NoPa,Nob_Hill,Noe_Valley,North_Beach/Telegraph_Hill,Oceanview,Outer_Mission,Outer_Richmond]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.2&l=p:CA:San_Francisco::[Outer_Sunset,Pacific_Heights,Parkmerced,Parkside,Portola,Presidio,Presidio_Heights,Russian_Hill]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.2&l=p:CA:San_Francisco::[Sea_Cliff,Sherwood_Forest,SoMa,South_Beach,St_Francis_Wood,Stonestown,Sunnyside]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.2&l=p:CA:San_Francisco::[Tenderloin,The_Haight,Twin_Peaks,Union_Square,Visitacion_Valley,West_Portal,Western_Addition,Westwood_Highlands,Westwood_Park]
+
+Berkeley HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Berkeley::[Berkeley_Hills,Claremont,Downtown_Berkeley,East_Solano_Ave,Elmwood,Fourth_Street,Gourmet_Ghetto,North_Berkeley,South_Berkeley,Telegraph_Ave,UC_Area,West_Berkeley]
+
+Oakland HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Oakland::[Dimond_District,Downtown_Oakland,East_Oakland,Fruitvale,Glenview,Grand_Lake,Jack_London_Square,Lake_Merritt,Lakeshore,Laurel_District,Lower_Hills,Montclair_Village]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Oakland::[Piedmont,Piedmont_Ave,Rockridge,Temescal,Uptown,West_Oakland]
+
+SF Metro HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Alameda::,Albany::,Belvedere_Tiburon::,Brisbane::,Colma::,Corte_Madera::,Daly_City::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[El_Cerrito::,Emeryville::,Kensington::,Mill_Valley::,Millbrae::,Pacifica::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Point_Richmond::,Richmond::,San_Bruno::,Sausalito::,South_San_Francisco::,Tiburon::,Woodside::]
+
+San Jose HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[Almaden_Valley,Alum_Rock/East_Foothills,Berryessa,Blossom_Valley,Buena_Vista,Burbank,Cambrian_Park,Downtown]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[East_San_Jose,Evergreen,Fairgrounds,North_San_Jose]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Jose::[North_Valley,Rose_Garden,Santa_Teresa,Seven_Trees,West_San_Jose,Willow_Glen]
+
+San Jose Metro HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Alviso::,Aptos::,Belmont::,Ben_Lomond::,Boulder_Creek::,Campbell::,Cupertino::,Davenport::,East_Palo_Alto::,Felton::,Foster_City::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Fremont::,Gilroy::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:%5BHayward::,Livermore::,Los_Altos::%5D
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Los_Gatos::,Menlo_Park::,Milpitas::,Moffett_Field::,Morgan_Hill::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Mountain_View::,Newark::,Palo_Alto::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Pleasanton::,Portola_Valley::,Redwood_City::,Redwood_Shores::,San_Carlos::,San_Martin::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[San_Mateo::,Santa_Clara::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Santa_Cruz::,Saratoga::,Scotts_Valley::,Soquel::,Stanford::,Sunnyvale::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sunol::,Union_City::,Woodside::]
+
+Sacramento
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Arden-Arcade,Curtis_Park,Del_Paso_Heights,Downtown,East_Sacramento,Hollywood_Park,Land_Park,Meadowview,Midtown]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Natomas,Oak_Park,Old_Sacramento,River_Park,Sacramento_State,South_Land_Park,Tahoe_Park,Tahoe_Park_South/Tallac_Village,The_Pocket-Greenhaven]
+
+Sacramento Metro HTTP LINKS
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Antelope::,Auburn::,Carmichael::,Citrus_Heights::,Clarksburg::,Davis::,Dixon::,El_Dorado_Hills::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Elk_Grove::,Elverta::,Fair_Oaks::,Folsom::,Galt::,Gold_River::,Granite_Bay::,Lincoln::,Loomis::,Newcastle::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[North_Highlands::,Orangevale::,Penryn::,Rancho_Cordova::,Rancho_Murieta::,Rio_Linda::,Rocklin::,Roseville::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sloughhouse::,W_Sacramento::,Walnut_Grove::,West_Sacramento::,Woodland::]
+
+OTHER CITIES NORTHERN CALIFORNIA HTTP LINKS
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[American_Canyon::,Antioch::,Bay_Point::,Benicia::,Brentwood::,Clayton::,Concord::,Crockett::,Davis::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Hercules::,Martinez::,Napa::,Oakley::,Pacheco::,Pinole::,Pittsburg::,Pleasant_Hill::,Port_Costa::,Rio_Vista::,Rodeo::,Rutherford::,Saint_Helena::,San_Pablo::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Hercules::,Martinez::,Napa::,Oakley::,Pacheco::,Pinole::,Pittsburg::,Pleasant_Hill::,Port_Costa::,Rio_Vista::,Rodeo::,Rutherford::,Saint_Helena::,San_Pablo::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Walnut_Creek::
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Yountville,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Eureka,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Redding,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Chico,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Santa+Rosa,+CA
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Ceres::,Escalon::,Manteca::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Modesto::,Oakdale::,Ripon::,Riverbank::,Salida::,Turlock::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Auberry::,Caruthers::,Clovis::,Dinuba::,Fowler::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.4&l=p:CA:Fresno::
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Friant::,Kerman::,Kingsburg::,Madera::,Parlier::,Prather::,Reedley::,San_Joaquin::,Sanger::,Selma::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Acampo::,Bethel_Island::,Brentwood::,Byron::,Clements::,Discovery_Bay::,Escalon::,French_Camp::,Galt::,Ione::,Isleton::,Lathrop::,Linden::,Livermore::,Lockeford::,Lodi::,Manteca::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Oakley::,Rio_Vista::,Ripon::,Riverbank::,Salida::,Stockton::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Tracy::,Walnut_Grove::,Woodbridge::]
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Yuba+City,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Davis,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Salinas,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=San+Luis+Obispo,+CA

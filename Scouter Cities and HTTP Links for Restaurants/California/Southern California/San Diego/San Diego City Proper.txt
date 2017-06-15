@@ -1,0 +1,41 @@
+San Diego City Proper (Palo Verde Not working)
+
+Allied Gardens, Alpine, Alpine Heights, Balboa Park, Banker's Hill, Barrio Logan, Bay Park, Blossom Valley, Bostonia, Carlsbad, Carmel Valley, Chollas Creek
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Allied_Gardens,Alpine,Alpine_Heights,Alta_Vista,Balboa_Park,Banker%27s_Hill,Barrio_Logan,Bay_Park,Blossom_Valley,Bostonia,Carlsbad,Carmel_Valley,Chollas_Creek]
+
+Chollas View, Chula Vista, City Heights, Clairemont, Coronado, Crest, Del Cerro, Del Mar, Downtown
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Chollas_View,Chula_Vista,City_Heights,Clairemont,Coronado,Crest,Del_Cerro,Del_Mar,Downtown]
+
+East Village, El Cajon, Emerald Hills, Encinitas, Escondido, Eucalyptus Hills, Fleetridge
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[East_Village,El_Cajon,Emerald_Hills,Encinitas,Escondido,Eucalyptus_Hills,Fleetridge]
+
+Fletcher Hills, Gaslamp, Golden Hill, Granite Hills, Grant Hill, Grantville, Harbison Canyon, Hillcrest, Imperial Beach, Jamacha, Kearny Mesa, Kensington, La Jolla
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Fletcher_Hills,Gaslamp,Golden_Hill,Granite_Hills,Grant_Hill,Grantville,Harbison_Canyon,Hillcrest,Imperial_Beach,Jamacha,Kearny_Mesa,Kensington,La_Jolla]
+
+La Jolla Shores, La Mesa, La Playa, La Presa, Lakeside, Lemon Grove, Liberty Station, Lincoln Park, Linda Vista, Little Italy, Logan Heights, Loma Portal, Lomita, Memorial, Middletown, Midway, Mira Mesa, Miramar
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[La_Jolla_Shores,La_Mesa,La_Playa,La_Presa,Lakeside,Lemon_Grove,Liberty_Station,Lincoln_Park,Linda_Vista,Little_Italy,Logan_Heights,Loma_Portal,Lomita,Memorial,Middletown,Midway,Mira_Mesa,Miramar]
+
+Mission Hills, Mission Valley, Mount Helix, Mount Hope, Mountain View, National City, Navajo, Nestor, Normal Heights, North Bay Terraces, North Encanto, North Park, Oak Park, Ocean Beach, Oceanside, Old Town
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Mission_Hills,Mission_Valley,Mount_Helix,Mount_Hope,Mountain_View,National_City,Navajo,Nestor,Normal_Heights,North_Bay_Terraces,North_Encanto,North_Park,Oak_Park,Ocean_Beach,Oceanside,Old_Town]
+
+Otay, Otay Mesa, Pacific Beach
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Otay,Otay_Mesa,Pacific_Beach]
+
+Palm City, Paradise Hills, Point Loma, Poway, Rancho Bernardo, Rancho Palo Verde, Rancho Penasquitos, Rancho San Diego, Rolando, Roseville, San Carlos, San Ysidro, Santee, Scripps Ranch, Serra Mesa, Shelter Island, Sherman Heights, Skyline, Sorrento Valley, South Bay Terraces, South Encanto, South Park
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Palm_City,Paradise_Hills,Point_Loma,Poway,Rancho_Bernardo,Rancho_Palo_Verde,Rancho_Penasquitos,Rancho_San_Diego,Rolando,Roseville,San_Carlos,San_Ysidro,Santee,Scripps_Ranch,Serra_Mesa,Shelter_Island,Sherman_Heights,Skyline,Sorrento_Valley,South_Bay_Terraces,South_Encanto,South_Park]
+
+Southcrest,Spring Valley,Stockton,Talmadge,Tierrasanta,Torrey Highlands,Torrey Hills,Torrey Pines,University City,University Heights,Valencia Park,Victoria,Vista,Winter Gardens
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Southcrest,Spring_Valley,Stockton,Talmadge,Tierrasanta,Torrey_Highlands,Torrey_Hills,Torrey_Pines,University_City,University_Heights,Valencia_Park,Victoria,Vista,Winter_Gardens]
+
+San Diego City Proper HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Allied_Gardens,Alpine,Alpine_Heights,Alta_Vista,Balboa_Park,Banker%27s_Hill,Barrio_Logan,Bay_Park,Blossom_Valley,Bostonia,Carlsbad,Carmel_Valley,Chollas_Creek]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Allied_Gardens,Alpine,Alpine_Heights,Alta_Vista,Balboa_Park,Banker%27s_Hill,Barrio_Logan,Bay_Park,Blossom_Valley,Bostonia,Carlsbad,Carmel_Valley,Chollas_Creek]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Allied_Gardens,Alpine,Alpine_Heights,Alta_Vista,Balboa_Park,Banker%27s_Hill,Barrio_Logan,Bay_Park,Blossom_Valley,Bostonia,Carlsbad,Carmel_Valley,Chollas_Creek]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Fletcher_Hills,Gaslamp,Golden_Hill,Granite_Hills,Grant_Hill,Grantville,Harbison_Canyon,Hillcrest,Imperial_Beach,Jamacha,Kearny_Mesa,Kensington,La_Jolla]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[La_Jolla_Shores,La_Mesa,La_Playa,La_Presa,Lakeside,Lemon_Grove,Liberty_Station,Lincoln_Park,Linda_Vista,Little_Italy,Logan_Heights,Loma_Portal,Lomita,Memorial,Middletown,Midway,Mira_Mesa,Miramar]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Mission_Hills,Mission_Valley,Mount_Helix,Mount_Hope,Mountain_View,National_City,Navajo,Nestor,Normal_Heights,North_Bay_Terraces,North_Encanto,North_Park,Oak_Park,Ocean_Beach,Oceanside,Old_Town]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Otay,Otay_Mesa,Pacific_Beach]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Palm_City,Paradise_Hills,Point_Loma,Poway,Rancho_Bernardo,Rancho_Palo_Verde,Rancho_Penasquitos,Rancho_San_Diego,Rolando,Roseville,San_Carlos,San_Ysidro,Santee,Scripps_Ranch,Serra_Mesa,Shelter_Island,Sherman_Heights,Skyline,Sorrento_Valley,South_Bay_Terraces,South_Encanto,South_Park]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:San_Diego::[Southcrest,Spring_Valley,Stockton,Talmadge,Tierrasanta,Torrey_Highlands,Torrey_Hills,Torrey_Pines,University_City,University_Heights,Valencia_Park,Victoria,Vista,Winter_Gardens]
+
+

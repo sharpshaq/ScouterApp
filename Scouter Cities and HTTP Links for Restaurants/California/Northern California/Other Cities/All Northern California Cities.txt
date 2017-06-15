@@ -1,0 +1,105 @@
+Rest of Northern California
+
+American Canyon, Antioch, Bay Point, Benicia, Brentwood, Clayton, Concord, Crockett, Davis
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[American_Canyon::,Antioch::,Bay_Point::,Benicia::,Brentwood::,Clayton::,Concord::,Crockett::,Davis::]
+
+Hercules, Martinez, Napa, Oakley, Pacheco, Pinole, Pittsburg, Pleasant Hill, Port Costa, Rio Vista, Rodeo, Rutherford, Saint Helena, San Pablo
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Hercules::,Martinez::,Napa::,Oakley::,Pacheco::,Pinole::,Pittsburg::,Pleasant_Hill::,Port_Costa::,Rio_Vista::,Rodeo::,Rutherford::,Saint_Helena::,San_Pablo::]
+
+San Rafael, Sonoma, St Helena, Suisun City, Travis AFB, Vacaville, Vallejo
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[San_Rafael::,Sonoma::,St._Helena::,Suisun_City::,Travis_AFB::,Vacaville::,Vallejo::]
+
+Walnut Creek
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Walnut_Creek::
+
+Yountville
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Yountville,+CA
+
+Eureka, Arcata
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Eureka,+CA
+
+Anderson, Bella Vista, Cottonwood, Palo Cedro, Redding, Shasta Lake
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Redding,+CA
+
+Chico, Hamilton City, Paradise, Durham
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Chico,+CA
+
+Santa Rosa
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Santa+Rosa,+CA
+
+Ceres, Empire, Escalon, Hughson, Manteca,
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Ceres::,Escalon::,Manteca::]
+
+Modesto, Oakdale, Ripon, Riverbank, Salida, Turlock
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Modesto::,Oakdale::,Ripon::,Riverbank::,Salida::,Turlock::]
+
+Auberry, Caruthers, Clovis, Dinuba, Fowler
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Auberry::,Caruthers::,Clovis::,Dinuba::,Fowler::]
+
+Fresno (minimum searchable is 1358 restaurants)
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.4&l=p:CA:Fresno::
+
+Friant, Kerman, Klingsburg, Madera, Parlier, Prather, Reedley, San Joaquin, Sanger, Selma
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Friant::,Kerman::,Kingsburg::,Madera::,Parlier::,Prather::,Reedley::,San_Joaquin::,Sanger::,Selma::]
+
+Acampo, Bethel Island, Brentwood, Byron, Clements, Discovery Bay, Escalon, French Camp, Galt, Ione, Isleton, Lathrop, Linden, Livermore, Lockeford, Lodi, Manteca
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Acampo::,Bethel_Island::,Brentwood::,Byron::,Clements::,Discovery_Bay::,Escalon::,French_Camp::,Galt::,Ione::,Isleton::,Lathrop::,Linden::,Livermore::,Lockeford::,Lodi::,Manteca::]
+
+Oakley, Rio Vist, Ripon, riverbank, Salida, Stockton
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Oakley::,Rio_Vista::,Ripon::,Riverbank::,Salida::,Stockton::]
+
+Tracy, Walnut Grove, Woodbridge
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Tracy::,Walnut_Grove::,Woodbridge::]
+
+Yuba city, Marysville, Olivehurst
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Yuba+City,+CA
+
+Davis, Dixon
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Davis,+CA
+
+Carmel, Castroville, Chualar, Marina, Monterey, Moss Landing, Prunedale, Salinas, San Juan Bautista, Sand City, Seaside
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Salinas,+CA
+
+San Luis Obispo
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=San+Luis+Obispo,+CA
+
+
+ALL HTTP LINKS
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[American_Canyon::,Antioch::,Bay_Point::,Benicia::,Brentwood::,Clayton::,Concord::,Crockett::,Davis::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Hercules::,Martinez::,Napa::,Oakley::,Pacheco::,Pinole::,Pittsburg::,Pleasant_Hill::,Port_Costa::,Rio_Vista::,Rodeo::,Rutherford::,Saint_Helena::,San_Pablo::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Hercules::,Martinez::,Napa::,Oakley::,Pacheco::,Pinole::,Pittsburg::,Pleasant_Hill::,Port_Costa::,Rio_Vista::,Rodeo::,Rutherford::,Saint_Helena::,San_Pablo::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Walnut_Creek::
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Yountville,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Eureka,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Redding,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Chico,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Santa+Rosa,+CA
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Ceres::,Escalon::,Manteca::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Modesto::,Oakdale::,Ripon::,Riverbank::,Salida::,Turlock::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Auberry::,Caruthers::,Clovis::,Dinuba::,Fowler::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&ed_attrs=RestaurantsPriceRange2.4&l=p:CA:Fresno::
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Friant::,Kerman::,Kingsburg::,Madera::,Parlier::,Prather::,Reedley::,San_Joaquin::,Sanger::,Selma::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Acampo::,Bethel_Island::,Brentwood::,Byron::,Clements::,Discovery_Bay::,Escalon::,French_Camp::,Galt::,Ione::,Isleton::,Lathrop::,Linden::,Livermore::,Lockeford::,Lodi::,Manteca::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Oakley::,Rio_Vista::,Ripon::,Riverbank::,Salida::,Stockton::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Tracy::,Walnut_Grove::,Woodbridge::]
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Yuba+City,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Davis,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=Salinas,+CA
+https://www.yelp.com/search?find_desc=Restaurants&find_loc=San+Luis+Obispo,+CA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

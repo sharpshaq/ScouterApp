@@ -1,0 +1,40 @@
+San Jose Metro 
+
+Alviso, Aptos, Belmont, Ben Lomond, Boulder Creek, Campbell, Davenport, East Palo Alto, Felton, Foster City
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Alviso::,Aptos::,Belmont::,Ben_Lomond::,Boulder_Creek::,Campbell::,Cupertino::,Davenport::,East_Palo_Alto::,Felton::,Foster_City::]
+
+Fremont, Gilroy
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Fremont::,Gilroy::]
+
+Hayward, Livermore, Los Altos
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:%5BHayward::,Livermore::,Los_Altos::%5D
+
+Los Gatos, Menlo Park, Milpitas, Moffett Field, Morgan Hill
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Los_Gatos::,Menlo_Park::,Milpitas::,Moffett_Field::,Morgan_Hill::]
+
+Mountain View, Newark, Palo Alto
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Mountain_View::,Newark::,Palo_Alto::]
+
+Pleasanton, Portola Valley, Redwood City, Redwood Shores, San Carlos, San Martin
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Pleasanton::,Portola_Valley::,Redwood_City::,Redwood_Shores::,San_Carlos::,San_Martin::]
+
+San Mateo, Santa Clara
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[San_Mateo::,Santa_Clara::]
+
+Santa Cruz, Saratoga, Scotts Valley, Soquel, Stanford, Sunnyvale
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Santa_Cruz::,Saratoga::,Scotts_Valley::,Soquel::,Stanford::,Sunnyvale::]
+
+Sunol, Union City, Woodside
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sunol::,Union_City::,Woodside::]
+
+
+San Jose Metro HTTP Links
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Alviso::,Aptos::,Belmont::,Ben_Lomond::,Boulder_Creek::,Campbell::,Cupertino::,Davenport::,East_Palo_Alto::,Felton::,Foster_City::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Fremont::,Gilroy::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:%5BHayward::,Livermore::,Los_Altos::%5D
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Los_Gatos::,Menlo_Park::,Milpitas::,Moffett_Field::,Morgan_Hill::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Mountain_View::,Newark::,Palo_Alto::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Pleasanton::,Portola_Valley::,Redwood_City::,Redwood_Shores::,San_Carlos::,San_Martin::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[San_Mateo::,Santa_Clara::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Santa_Cruz::,Saratoga::,Scotts_Valley::,Soquel::,Stanford::,Sunnyvale::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sunol::,Union_City::,Woodside::]

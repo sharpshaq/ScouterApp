@@ -1,0 +1,9 @@
+Sacramento
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Arden-Arcade,Curtis_Park,Del_Paso_Heights,Downtown,East_Sacramento,Hollywood_Park,Land_Park,Meadowview,Midtown]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:Sacramento::[Natomas,Oak_Park,Old_Sacramento,River_Park,Sacramento_State,South_Land_Park,Tahoe_Park,Tahoe_Park_South/Tallac_Village,The_Pocket-Greenhaven]
+
+Sacramento Metro HTTP LINKS
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Antelope::,Auburn::,Carmichael::,Citrus_Heights::,Clarksburg::,Davis::,Dixon::,El_Dorado_Hills::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Elk_Grove::,Elverta::,Fair_Oaks::,Folsom::,Galt::,Gold_River::,Granite_Bay::,Lincoln::,Loomis::,Newcastle::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[North_Highlands::,Orangevale::,Penryn::,Rancho_Cordova::,Rancho_Murieta::,Rio_Linda::,Rocklin::,Roseville::]
+https://www.yelp.com/search?find_desc=Restaurants&start=0&l=p:CA:[Sloughhouse::,W_Sacramento::,Walnut_Grove::,West_Sacramento::,Woodland::]
